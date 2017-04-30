@@ -1,7 +1,5 @@
 /** Name: Joseph Tassone
  *  Course: COSC1046
- *  Assignment: 4
- *	Question: 2
  */
 
 import java.util.Scanner;
