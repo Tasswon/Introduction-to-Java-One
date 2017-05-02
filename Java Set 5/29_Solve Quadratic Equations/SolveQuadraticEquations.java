@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course: COSC1046
- *	Description: Displays the number of real roots and all real roots
+ *  Description: Displays the number of real roots and all real roots
  */
 
 import java.util.Scanner;

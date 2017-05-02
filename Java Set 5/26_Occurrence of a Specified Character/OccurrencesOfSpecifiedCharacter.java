@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course: COSC1046
- *	Description: Finds the number of occurrences of a specified character in a string 
+ *  Description: Finds the number of occurrences of a specified character in a string 
  */
 
 import java.util.Scanner;

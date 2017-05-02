@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Determines the number of days in a month, based on month and year
+ *  Description: Determines the number of days in a month, based on month and year
  */ 
 
 import java.util.Scanner;

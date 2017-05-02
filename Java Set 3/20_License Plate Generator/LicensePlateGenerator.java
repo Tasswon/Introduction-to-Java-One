@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Randomly generates a license plate number
+ *  Description: Randomly generates a license plate number
  */
 
 public class LicensePlateGenerator {

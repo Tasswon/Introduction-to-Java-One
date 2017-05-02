@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Plays a game of rock, paper, scissors
+ *  Description: Plays a game of rock, paper, scissors
  */ 
 
 import java.util.Scanner;

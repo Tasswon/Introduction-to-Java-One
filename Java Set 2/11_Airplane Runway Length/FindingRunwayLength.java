@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Determines the minimum runway length for an airplane
+ *  Description: Determines the minimum runway length for an airplane
  */ 
 
 import java.util.Scanner;

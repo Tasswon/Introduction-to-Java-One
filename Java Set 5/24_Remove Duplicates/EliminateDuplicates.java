@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course: COSC1046
- *	Description: Returns a new array by eliminating the duplicate values in the array
+ *  Description: Returns a new array by eliminating the duplicate values in the array
  */
 
 import java.util.Scanner;

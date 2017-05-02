@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Prompts user to enter a, b, c, d, e, and f and displays the result
+ *  Description: Prompts user to enter a, b, c, d, e, and f and displays the result
  */ 
 
 import java.util.Scanner;

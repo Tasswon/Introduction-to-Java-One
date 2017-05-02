@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Prompts user to enter a monthly saving amount and displays value after sixth month
+ *  Description: Prompts user to enter a monthly saving amount and displays value after sixth month
  */ 
 
 import java.util.Scanner;

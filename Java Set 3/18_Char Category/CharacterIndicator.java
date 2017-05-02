@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: An entered character reports whether it's a number, letter, or symbol
+ *  Description: An entered character reports whether it's a number, letter, or symbol
  */
 
 import java.util.Scanner;

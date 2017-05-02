@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course: COSC1046
- *	Description: Finds all perfect numbers below a certain value
+ *  Description: Finds all perfect numbers below a certain value
  */
 
 import java.util.Scanner;

@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Displays the distance between two entered points
+ *  Description: Displays the distance between two entered points
  */
 
 import java.util.Scanner;

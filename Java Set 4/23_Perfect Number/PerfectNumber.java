@@ -1,6 +1,4 @@
-/** Name: Joseph Tassone
- *  Course: COSC1046
- */
+//Name: Joseph Tassone
 
 import java.util.Scanner;
 

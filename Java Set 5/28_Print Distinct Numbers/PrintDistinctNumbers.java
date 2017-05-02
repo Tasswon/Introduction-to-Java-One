@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course: COSC1046
- *	Description: User enters numbers into an array and prints the distinct values
+ *  Description: User enters numbers into an array and prints the distinct values
  */
 
 import java.util.Scanner;

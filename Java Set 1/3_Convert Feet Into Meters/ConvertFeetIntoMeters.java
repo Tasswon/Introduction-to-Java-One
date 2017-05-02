@@ -1,6 +1,4 @@
 /*Name: Joseph Tassone
-*Course Code: COSC1046
-*Date: May 4, 2016*
 *Program Description: Converts feet into meters */ 
 
 

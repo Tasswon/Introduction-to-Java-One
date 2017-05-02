@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Determines the area of a polygon
+ *  Description: Determines the area of a polygon
  */
 
 import java.util.Scanner;

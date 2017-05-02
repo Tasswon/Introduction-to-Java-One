@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Program receives an ASCII code and displays a character
+ *  Description: Program receives an ASCII code and displays a character
  */
 
 import java.util.Scanner;

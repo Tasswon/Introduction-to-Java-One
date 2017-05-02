@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course: COSC1046
- *	Description: Computes a series and places it into a table
+ *  Description: Computes a series and places it into a table
  */
 
 public class SumSeries {

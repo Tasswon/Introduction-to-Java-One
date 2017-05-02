@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course: COSC1046
- *	Description: User enters three numbers and they are displayed in increasing and decreasing order
+ *  Description: User enters three numbers and they are displayed in increasing and decreasing order
  */
 
 

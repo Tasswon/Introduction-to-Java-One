@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course: COSC1046
- *	Description: Displays the first 100 emirps
+ *  Description: Displays the first 100 emirps
  */
 
 import java.util.Scanner;

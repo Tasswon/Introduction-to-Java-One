@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Determines the perimeter of a triangle
+ *  Description: Determines the perimeter of a triangle
  */
 
 import java.util.Scanner;

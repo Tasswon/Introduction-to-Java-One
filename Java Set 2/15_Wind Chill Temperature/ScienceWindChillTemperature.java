@@ -1,6 +1,5 @@
 /** Name: Joseph Tassone
- *  Course Code: COSC1046
- *	Description: Prompts the user to enter a temperature and wind speed, and displays the wind-chill temperature
+ *  Description: Prompts the user to enter a temperature and wind speed, and displays the wind-chill temperature
  */ 
 
 import java.util.Scanner;
